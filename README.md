@@ -1,2 +1,2 @@
 # medium-blog-post
-Repository for my Medium blog posts
+In this repository I will publish all relevent code for my Medium blog posts.
