@@ -1,4 +1,6 @@
 # Creating AWS Lambda Layer with Terraform in 3min
+[Read the next Medium blog post]() 
+
 The code is written for Python 3.8 runtime, but can be easily modified to support other runtimes as well. 
 
 ### Prerequisites
@@ -19,11 +21,11 @@ The code is written for Python 3.8 runtime, but can be easily modified to suppor
 ### Folder Structure - Tree
 ├── README.md</br>
 ├── prod</br>
-│   ├── main.tf</br>
-│   ├── scripts</br>
-│   └── variables.tf</br>
+│    ├── main.tf</br>
+│    ├── scripts</br>
+│    └── variables.tf</br>
 ├── modules</br>
-│   ├── tf-module-ec2</br>
-│   ├── tf-module-iam-service-role</br>
-│   ├── tf-module-lambda-layer</br>
-│   ├── tf-module-s3-bucket</br>
+│    ├── tf-module-ec2</br>
+│    ├── tf-module-iam-service-role</br>
+│    ├── tf-module-lambda-layer</br>
+│    ├── tf-module-s3-bucket</br>
