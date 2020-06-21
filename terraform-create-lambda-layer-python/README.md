@@ -8,4 +8,3 @@ The code is written for Python 3.8 runtime, but can be easily modified to suppor
 - Installed [Terraform](https://www.terraform.io/downloads.html) on the local machine.
 - Familiar with Terraform.
 - Familiar with Bash (Linux).
-
