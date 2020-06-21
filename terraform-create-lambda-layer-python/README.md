@@ -17,11 +17,11 @@ The code is written for Python 3.8 runtime, but can be easily modified to suppor
 - `modules` folder - terraform modules for AWS services
 
 ### Folder Structure - Tree
-├── README.md</br>  
-├── prod</br>  
+├── README.md</br>
+├── prod</br>
 │   ├── main.tf</br>
 │   ├── scripts</br>
-│   └── variables.tf</br>  
+│   └── variables.tf</br>
 ├── modules</br>
 │   ├── tf-module-ec2</br>
 │   ├── tf-module-iam-service-role</br>
