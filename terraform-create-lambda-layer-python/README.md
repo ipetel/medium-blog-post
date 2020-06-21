@@ -1,5 +1,5 @@
 # Creating AWS Lambda Layer with Terraform in 3min
-:books: [Read the next Medium blog post]() 
+:books: [Read the next Medium blog post for elaborated instruction]() :books:
 
 The code is written for Python 3.8 runtime, but can be easily modified to support other runtimes as well. 
 
