@@ -11,19 +11,19 @@ The code is written for Python 3.8 runtime, but can be easily modified to suppor
 
 ### Folder Structure - Overview
 - `prod` folder - production environment
-- "main.tf" - main terraform script
-- "variables.tf" - global variables
-- "scripts" folder - contains the bash code for EC2’s user data
-- "modules" folder - terraform modules for AWS services
+- `main.tf` - main terraform script
+- `variables.tf` - global variables
+- `scripts` folder - contains the bash code for EC2’s user data
+- `modules` folder - terraform modules for AWS services
 
 ### Folder Structure - Tree
-├── README.md
-├── prod
-│   ├── main.tf
-│   ├── scripts
-│   └── variables.tf
-├── modules
-│   ├── tf-module-ec2
-│   ├── tf-module-iam-service-role
-│   ├── tf-module-lambda-layer
-│   ├── tf-module-s3-bucket
+├── README.md</br>  
+├── prod</br>  
+│   ├── main.tf</br>
+│   ├── scripts</br>
+│   └── variables.tf</br>  
+├── modules</br>
+│   ├── tf-module-ec2</br>
+│   ├── tf-module-iam-service-role</br>
+│   ├── tf-module-lambda-layer</br>
+│   ├── tf-module-s3-bucket</br>
