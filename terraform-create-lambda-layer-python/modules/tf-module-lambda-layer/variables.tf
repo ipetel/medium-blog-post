@@ -1,0 +1,9 @@
+variable "createModule" {}
+variable "input_layer_name" {}
+variable "input_desc" {}
+variable "input_region" {}
+variable "input_runtime" {}
+variable "input_s3_bucket_name" {}
+variable "input_s3_obj_key" {}
+variable "input_iam_user_access_key" {}
+variable "input_iam_user_secret_key" {}

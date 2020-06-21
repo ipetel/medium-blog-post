@@ -1,0 +1,9 @@
+variable "createModule" {}
+variable "input_general_tags" {}
+variable "input_region" {}
+variable "input_instance_type" {}
+variable "input_amazon_ami_name" {}
+variable "input_instance_iam_role" {}
+variable "input_script_folder_path" {}
+variable "input_iam_user_access_key" {}
+variable "input_iam_user_secret_key" {}
